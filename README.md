@@ -1,2 +1,2 @@
 # LabQuiz5b
-LabQuiz5 2. Soru
+LabQuiz5 2. Soru 
